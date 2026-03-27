@@ -1,0 +1,8 @@
+{
+  "name": "magilearn",
+  "version": "1.0.0",
+  "description": "MagiLearn - Profesor IA de Idiomas",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
